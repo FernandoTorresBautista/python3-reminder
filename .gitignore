@@ -3,3 +3,4 @@ dist/
 newproj/.idea/
 newproj/venv/
 newproj/instance/uploads/
+newproj/__pycache__/
