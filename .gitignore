@@ -2,3 +2,4 @@
 dist/
 newproj/.idea/
 newproj/venv/
+newproj/instance/uploads/
